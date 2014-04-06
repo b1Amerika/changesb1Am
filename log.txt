@@ -5,3 +5,4 @@ cad upload
 CAD file lokal öffnen und ohne Änderungen speichern
 	status: modiefied
 	
+clone test 
