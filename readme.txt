@@ -1,4 +1,3 @@
 
-change 1
+getting to know the git console
 
-change 2
