@@ -1,0 +1,7 @@
+
+cad upload
+	status: alles in sync
+
+CAD file lokal öffnen und ohne Änderungen speichern
+	status: modiefied
+	
