@@ -1,2 +1,6 @@
 
+file 1 text, online geändert.
+
 parallele offline Änderung
+
+-- und offline gemerged 
